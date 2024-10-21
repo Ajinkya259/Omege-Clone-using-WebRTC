@@ -39,7 +39,7 @@ This project is an Omegle-like clone that enables anonymous real-time video and 
     cd backend/npm start
     cd frontend/npm run dev
 5. **Open your browser and navigate to:**
-    http://localhost:3000
+    http://localhost:5137
     You should now be able to access the application and initiate anonymous video/audio chats.
 
 ## How It Works
