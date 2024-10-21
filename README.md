@@ -53,3 +53,18 @@ This project is an Omegle-like clone that enables anonymous real-time video and 
 3. **Anonymous Chat**:
 
     - "To be added" Users are randomly paired without any prior identification, enabling them to start chatting instantly once connected to another user.
+
+## Future Enhancements
+
+- **Text chat functionality alongside video**:
+  - Implement a feature that allows users to send text messages during video/audio chat for a richer communication experience.
+
+- **"Next" button for switching peers**:
+  - Add a "Next" button that enables users to disconnect from their current peer and instantly switch to another random peer for a new conversation.
+
+- **Improved User Interface**:
+  - Enhance the user interface with better design elements, making it more intuitive and user-friendly. Incorporate responsive design to improve usability on different devices.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
