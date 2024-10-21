@@ -67,4 +67,4 @@ This project is an Omegle-like clone that enables anonymous real-time video and 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ajinkya259/Omege-Clone-using-WebRTC/blob/master/License) file for details.
