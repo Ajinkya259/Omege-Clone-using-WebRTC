@@ -1,7 +1,7 @@
-## Omegle clone using WebRTC (p2p)
+## Video Chat using Web Real Time Communication(p2p)
 
 
-# Omegle Clone Using WebRTC
+# Video Chat Using WebRTC
 
 This project is an Omegle-like clone that enables anonymous real-time video and audio communication between users through WebRTC. It uses WebSockets for signaling and connection establishment, allowing users to connect seamlessly without the need for an external server for media streaming.
 
